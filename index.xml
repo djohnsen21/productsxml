@@ -1,0 +1,60 @@
+<?xml-stylesheet type="text/css" href="products.css"?>
+<products>
+    <product>
+        <name>Vintage T-shirt</name>
+        <description>Tie-dye Grateful Dead T-shirt</description>
+        <price>35</price>
+        <category>clothing</category>
+        <category>vintage</category>
+    </product>
+    
+    <product>
+        <name>Running Shoes</name>
+        <description>Lightweight and durable running shoes</description>
+        <price>80</price>
+        <category>footwear</category>
+    </product>
+    
+    <product>
+        <name>Leather Wallet</name>
+        <description>Handcrafted leather wallet</description>
+        <price>50</price>
+        <category>accessories</category>
+    </product>
+    
+    <product>
+        <name>Smartphone Stand</name>
+        <description>Adjustable plastic smartphone stand</description>
+        <price>20</price>
+        <category>electronics</category>
+    </product>
+    
+    <product>
+        <name>Wireless Headphones</name>
+        <description>Noise-canceling bluetooth headphones</description>
+        <price>120</price>
+        <category>electronics</category>
+    </product>
+    
+    <product>
+        <name>Cookware Set</name>
+        <description>Non-stick full cookware set</description>
+        <price>100</price>
+        <category>home</category>
+    </product>
+    
+    <product>
+        <name>Backpack</name>
+        <description>All-terrain hiking backpack</description>
+        <price>60</price>
+        <category>accessories</category>
+        <category>outdoors</category>
+    </product>
+    
+    <product>
+        <name>Desk Lamp</name>
+        <description>Desk lamp with adjustable brightness</description>
+        <price>30</price>
+        <category>home</category>
+    </product>
+</products>
