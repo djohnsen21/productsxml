@@ -1,0 +1,46 @@
+products {
+    display: block;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 10px;
+    background-color: #f4f4f4;
+}
+
+product {
+    display: block;
+    border: 1px solid #ccc;
+    background: #fff;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+name {
+    display: block;
+    font-size: 20px;
+    font-weight: bold;
+    color: #333;
+}
+
+description {
+    display: block;
+    font-style: italic;
+    color: #666;
+}
+
+price {
+    display: block;
+    font-size: 18px;
+    font-weight: bold;
+    color: #007bff;
+}
+
+category {
+    display: inline-block;
+    background: #ffcc00;
+    padding: 5px 10px;
+    margin: 5px;
+    border-radius: 5px;
+    font-size: 14px;
+    font-weight: bold;
+    color: #333;
+}
